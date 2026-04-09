@@ -339,7 +339,7 @@ def display_alien_card_compact(alien_name: str, col):
                 img = Image.open(img_path)
                 st.image(img, width=200)
             except Exception:
-                st.write("🟢")
+                st.write("✓")
         else:
             st.markdown(f"<h1 style='text-align: center;'></h1>", unsafe_allow_html=True)
         
@@ -443,7 +443,7 @@ ML-Powered Alien Combat Analysis & Tournament System
 # 6️ Mode: 1v1 Battle
 # ------------------------------
 if battle_mode == "1v1 Battle":
-    st.header("⚔️ One-on-One Battle")
+    st.header(" One-on-One Battle")
     
     col1, col2 = st.columns(2)
     
@@ -507,7 +507,7 @@ if battle_mode == "1v1 Battle":
                     st.metric(alien_b + " Win Chance", f"{1-prob:.1%}")
 
 # ------------------------------
-# 7️⃣ Mode: Tournament
+#  Mode: Tournament
 # ------------------------------
 elif battle_mode == "Tournament":
     st.header(" Tournament Simulation")
