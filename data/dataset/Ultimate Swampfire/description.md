@@ -1,0 +1,447 @@
+
+
+| [Omni Icon.png](/wiki/Category:Classic_Timeline "Category:Classic Timeline") This article belongs to the ***[Classic Timeline](/wiki/Classic_Timeline "Classic Timeline")*** |
+
+
+
+
+|  |
+|  |
+
+
+
+
+Ultimate Swampfire
+------------------
+
+
+
+[![](https://static.wikia.nocookie.net/ben10/images/4/4e/Alien-gallery_ultimate_swampfire.png/revision/latest/scale-to-width-down/315?cb=20210314025221)](https://static.wikia.nocookie.net/ben10/images/4/4e/Alien-gallery_ultimate_swampfire.png/revision/latest?cb=20210314025221)
+
+
+General Information
+-------------------
+
+
+
+### Species
+
+
+[Evolved Methanosian](/wiki/Evolved_Methanosian "Evolved Methanosian")
+
+
+### Body
+
+
+Humanoid Tree
+
+
+
+Powers and Abilities
+--------------------
+
+
+
+### Abilities
+
+
+Azur Pyrokinesis  
+Chlorokinesis  
+Methane Generation  
+Methane Projectiles  
+Adhesive Mud  
+Sleeping Spores  
+Seed Generation  
+Vine Generation  
+Enhanced Strength  
+Enhanced Durability  
+Enhanced Dexterity  
+Enhanced Agility  
+Enhanced Speed  
+Fire Bombs  
+Pyro Immunity  
+Pyrokinetic Flight  
+Underwater Propulsion
+
+
+
+Counterparts
+------------
+
+
+
+### Regular Form
+
+
+[Swampfire](/wiki/Swampfire "Swampfire")
+
+
+
+Details
+-------
+
+
+
+### Voice Actor
+
+
+[Dee Bradley Baker](/wiki/Dee_Bradley_Baker "Dee Bradley Baker")
+
+
+### First Appearance
+
+
+[The Final Battle: Part 2](/wiki/The_Final_Battle:_Part_2 "The Final Battle: Part 2")
+
+
+[Gallery](/wiki/Ultimate_Swampfire/Gallery "Ultimate Swampfire/Gallery")
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+| “
+ | *What'ya say, Vilgy? Round 2?* | ”
+ |
+|  – Ultimate Swampfire to [Vilgax](/wiki/Vilgax_(Classic) "Vilgax (Classic)").[[1]](#cite_note-TFB2-1) |
+
+
+**Ultimate Swampfire** is the [Ultimatrix](/wiki/Ultimatrix "Ultimatrix")'s artificially [evolved](/wiki/Evolved_Methanosian "Evolved Methanosian") DNA sample of a [Methanosian](/wiki/Methanosian "Methanosian").
+
+
+
+Contents
+--------
+
+
+* [1 Appearance](#Appearance)
+* [2 Powers and Abilities](#Powers_and_Abilities)
+* [3 Weaknesses](#Weaknesses)
+* [4 History](#History)
+	+ [4.1 Alien Force](#Alien_Force)
+	+ [4.2 Ultimate Alien](#Ultimate_Alien)
+* [5 Appearances](#Appearances)
+* [6 Video Games](#Video_Games)
+	+ [6.1 Ben 10 Ultimate Alien: Cosmic Destruction](#Ben_10_Ultimate_Alien:_Cosmic_Destruction)
+	+ [6.2 Toon Football](#Toon_Football)
+	+ [6.3 Project Exonaut](#Project_Exonaut)
+* [7 Naming and Translations](#Naming_and_Translations)
+* [8 Trivia](#Trivia)
+* [9 Notes](#Notes)
+* [10 References](#References)
+	+ [10.1 Matt Wayne](#Matt_Wayne)
+	+ [10.2 Derrick J. Wyatt](#Derrick_J._Wyatt)
+* [11 See Also](#See_Also)
+
+
+
+Appearance
+----------
+
+
+Ultimate Swampfire has the appearance of a humanoid tree instead of a walking plant like [Swampfire](/wiki/Swampfire "Swampfire"). Ultimate Swampfire's body is dark brown in color, and now has three blue gooey shells containing an organic, blue-colored gel-like solution of napalm on each of his arms and a large one on his back. He also has a smaller pod on his front, through which his face can be seen. Ultimate Swampfire's body is composed of petrified wood.
+
+
+Ultimate Swampfire wears the evolved [Ultimatrix](/wiki/Ultimatrix_(Original) "Ultimatrix (Original)") symbol on his chest.
+
+
+
+Powers and Abilities
+--------------------
+
+
+* ![]()Blue Pyrokinesis
+* ![]()Fire Bombs
+* ![]()Seed Generation
+* ![]()Vine Generation
+* ![]()Methane Projectiles
+* ![]()Underwater Propulsion
+* ![]()Pyrokinetic Flight
+* ![]()Enhanced Strength
+* ![]()Enhanced Durability
+1/9
+Ultimate Swampfire can ignite napalm in his arms to generate blue-colored flames. These flames are almost two times hotter than Swampfire's, as they can melt through a brick wall[[2]](#cite_note-UA-2) and blast apart a [Petrosapien](/wiki/Petrosapien_(Classic) "Petrosapien (Classic)")'s shard projectiles, the latter of which was demonstrated by his [sentient counterpart](/wiki/Sentient_Ultimate_Swampfire "Sentient Ultimate Swampfire").[[3]](#cite_note-3)
+
+
+Ultimate Swampfire can produce a larger and stronger blast of fire when he puts his hands together. He can also propel himself underwater and in the air.[[1]](#cite_note-TFB2-1)
+
+
+Ultimate Swampfire is more resistant to damage than Swampfire.
+
+
+Ultimate Swampfire has lethal fire bombs on his arms which he can throw as weapons.
+
+
+Ultimate Swampfire can shoot blue projectiles from his hands that can multiply into small blue gas bombs that explode on impact.[[1]](#cite_note-TFB2-1)
+
+
+Ultimate Swampfire retains Swampfire's abilities to generate seeds and vines.
+
+
+Ultimate Swampfire seems to be a lot faster than he looks, as seen when he snuck up behind [Eon](/wiki/Eon "Eon") so fast that he was unable to notice him.[[4]](#cite_note-B10KR-4)
+
+
+
+Weaknesses
+----------
+
+
+* ![]()Vulnerability to Electricity
+* ![]()Vulnerability to Time Rays
+1/2
+Ultimate Swampfire is vulnerable to electricity, such as that generated by an [Amperi](/wiki/Amperi "Amperi").[[2]](#cite_note-UA-2)[[5]](#cite_note-5)
+
+
+Like other organic beings, Ultimate Swampfire is vulnerable to being aged to dust by the time rays of a [Chronosapien](/wiki/Chronosapien "Chronosapien") or a [Chronian](/wiki/Chronian "Chronian").[[4]](#cite_note-B10KR-4)
+
+
+Unlike Swampfire, Ultimate Swampfire has not been shown to regenerate.[[note 1]](#cite_note-7)
+
+
+Unlike Swampfire, Ultimate Swampfire does not have the ability to create a plant whip with which to attack or defend.
+
+
+
+History
+-------
+
+
+### Alien Force
+
+
+* Ultimate Swampfire first appeared in *[The Final Battle: Part 2](/wiki/The_Final_Battle:_Part_2 "The Final Battle: Part 2")*, where he battled [Vilgax](/wiki/Vilgax_(Classic) "Vilgax (Classic)") as the [Chimeran Hammer](/wiki/Chimeran_Hammer_(Classic) "Chimeran Hammer (Classic)") went underwater before switching into [Jetray](/wiki/Jetray_(Classic) "Jetray (Classic)").
+
+
+### Ultimate Alien
+
+
+* In *[Ultimate Aggregor](/wiki/Ultimate_Aggregor_(Episode) "Ultimate Aggregor (Episode)")*, Ultimate Swampfire led [the team](/wiki/Alien_Force "Alien Force") in breaking into [Los Soledad](/wiki/Los_Soledad "Los Soledad"), easily defeated the [Aggrebots](/wiki/Aggrebots "Aggrebots") stationed there, and fought the mind-controlled [Andromeda Galaxy](/wiki/Andromeda_Galaxy_(Classic) "Andromeda Galaxy (Classic)") aliens before being defeated by [Ra'ad](/wiki/Ra%27ad "Ra'ad") and switching into [Nanomech](/wiki/Nanomech "Nanomech").
+* In *[The Forge of Creation](/wiki/The_Forge_of_Creation "The Forge of Creation")*, Ultimate Swampfire was defeated by [Ultimate Aggregor](/wiki/Ultimate_Aggregor "Ultimate Aggregor").
+* In *[Eye of the Beholder](/wiki/Eye_of_the_Beholder "Eye of the Beholder"),* Ultimate Swampfire fought the [Churl](/wiki/Churl "Churl") and [three guardians](/wiki/Sanctuary_Guardians "Sanctuary Guardians").
+* In *[The Big Story](/wiki/The_Big_Story "The Big Story")*, Ultimate Swampfire defeated the [Plant Alien](/wiki/Plant_Alien "Plant Alien").
+* In *[Ben 10,000 Returns](/wiki/Ben_10,000_Returns "Ben 10,000 Returns")*, Ultimate Swampfire battled [Eon](/wiki/Eon "Eon"), but was defeated and aged to dust by the latter's time ray. After Eon was defeated, however, Ultimate Swampfire was restored by [Ben 10,000](/wiki/Ben_10,000_(Ultimate_Alien) "Ben 10,000 (Ultimate Alien)").
+* In *[Night of the Living Nightmare](/wiki/Night_of_the_Living_Nightmare "Night of the Living Nightmare")*, Ultimate Swampfire confronted [Albedo](/wiki/Albedo "Albedo") in a dream.
+
+
+Appearances
+-----------
+
+
+* [Alien Force](#)
+* [Ultimate Alien](#)
+* [Books](#)
+* [Online Games](#)
+* [Mobile Games](#)
+
+
+
+Ben
+Season 3
+* *[The Final Battle: Part 2](/wiki/The_Final_Battle:_Part_2 "The Final Battle: Part 2")* (first appearance)
+
+
+
+Ben
+Season 1
+* *[Ultimate Aggregor](/wiki/Ultimate_Aggregor_(Episode) "Ultimate Aggregor (Episode)")* (first reappearance)
+
+
+Season 2
+* *[The Forge of Creation](/wiki/The_Forge_of_Creation "The Forge of Creation")*
+
+
+Season 3
+* *[Eye of the Beholder](/wiki/Eye_of_the_Beholder "Eye of the Beholder")*
+* *[The Big Story](/wiki/The_Big_Story "The Big Story")*
+* *[Ben 10,000 Returns](/wiki/Ben_10,000_Returns "Ben 10,000 Returns")* (destroyed; restored)
+
+
+Dream
+Season 3
+* *[Night of the Living Nightmare](/wiki/Night_of_the_Living_Nightmare "Night of the Living Nightmare")* (cameo)
+
+
+
+Cartoon Network Action Packs
+* *[twoSome](/wiki/TwoSome "TwoSome")*
+
+
+
+- *[Ultimate Crisis](/wiki/Ultimate_Crisis "Ultimate Crisis")*
+
+- *[Ultimate Alien Rescue](/wiki/Ultimate_Alien_Rescue "Ultimate Alien Rescue")*
+
+- *[Ultimate Alien Warrior](/wiki/Ultimate_Alien_Warrior "Ultimate Alien Warrior")*
+
+- *[Ultimate Defense](/wiki/Ultimate_Defense "Ultimate Defense")*
+
+- *[Ultimatrix Unleashed](/wiki/Ultimatrix_Unleashed "Ultimatrix Unleashed")*
+
+
+
+- *[Ben 10 Ultimate Alien: Xenodrome](/wiki/Ben_10_Ultimate_Alien:_Xenodrome "Ben 10 Ultimate Alien: Xenodrome")*
+
+Video Games
+-----------
+
+
+### [Ben 10 Ultimate Alien: Cosmic Destruction](/wiki/Ben_10_Ultimate_Alien:_Cosmic_Destruction "Ben 10 Ultimate Alien: Cosmic Destruction")
+
+
+* ![]()Ultimate Swampfire in Cosmic Destruction
+* ![]()Ultimate Swampfire Exosuit in Project Exonaut
+1/2Ultimate Swampfire flew up the Eiffel Tower to battle [Sunder](/wiki/Sunder "Sunder") and various Null Void aliens. After defeating him, Ultimate Swampfire grabbed the piece of [Potis Altiare](/wiki/Potis_Altiare "Potis Altiare") Sunder stole and jumped from the collapsing Eiffel Tower.
+
+
+Ultimate Swampfire has firebombs, which he can throw at enemies, by spinning, spread them out around him, or launch them at enemies, homing in on them like missiles. He can also launch a flamethrower-like stream of fire from both hands.
+
+
+By punching the ground, Ultimate Swampfire can create a large fire blast.
+
+
+Ultimate Swampfire can fly by launching fire from his palms as jet propulsion.
+
+
+Like the rest of the other playable [Ultimate Forms](/wiki/Ultimate_Forms "Ultimate Forms"), Ultimate Swampfire can knock out enemies with a single punch.
+
+
+
+### Toon Football
+
+
+Ultimate Swampfire is also a toon football player in Toon Football and also the first Ultimate form to be in Toon Football.
+
+
+
+### [Project Exonaut](/wiki/Project_Exonaut "Project Exonaut")
+
+
+Ultimate Swampfire is a playable Exosuit of the Banzai Squadron on Project Exonaut. His Weapon Mod decreases the Marksman's clip to 3 but increases its range, damage, and speed. Ultimate Swampfire is available for purchase at level 30 for 2000 coins.
+
+
+
+Naming and Translations
+-----------------------
+
+
+
+
+| Language
+ | Name
+ | Origin
+ |
+| --- | --- | --- |
+| **Arabic** | سوامب فاير الأقصي | *Swampfire Maximum* |
+| **Bulgarian** | Ултра Блатоплам | From *ултра*, ultimate; *блато-*, swamp and *-плам*, fire
+ |
+| **Chinese** | 终极沼泽火 | From *终极* (Zhōng Jí), ultimate, and *沼泽* (Zhǎo Zé), swamp, and *火* (Huǒ), fire
+ |
+| **Dutch** | Ultieme Moerasvuur | From *ultieme*, ultimate and *moerasvuur*, Swampfire
+ |
+| **French** | Ultimate Régénérator | From *ultimate* and *régénerer*, regenerate
+ |
+| **German** | Ultimativer Schlammfeuer | From *ultimativ*, ultimate, and *schlammfeuer*, mud fire
+ |
+| **Greek** | Απόλυτος Βαλτοφωτιάς | From *απόλυτος*, ultimate and *βαλτοφωτιάς*, swampfire
+ |
+| **Hungarian** | Láplövő X | From *láplö*, swamp, *övő*, belt and *X* |
+| **Italian** | Ultra Fangofiammante | From *ultra*, ultimate and *fangofiammante*, flaming mud
+ |
+| **Korean** | 얼티메이트 머드파이어 | From "얼티메이트", ultimate and "머드", mud and "파이어", fire
+ |
+| **Norwegian** | Ultimat Myrild | From *ultimat*, ultimate, *myr*, swamp and *ild*, fire
+ |
+| **Polish** | Ostateczny Szlamfajer | From *ostateczny*, ultimate and *szlamfajer*, Swampfire
+ |
+| **Portuguese (Br)** | Fogo Selvagem SupremoFogo Fátuo Supremo | From *fogo*, fire, *selvagem*, wild, and *supremo*, ultimateFrom *fogo fátuo*, swampfire, and *supremo*, ultimate
+ |
+| **Romanian** | Flacăra Vie X | From *flacăra vie*, live flame and “X”
+ |
+| **Russian** | Ульти ПламенныйВысший Пламенный | From *ульти пламенный*, ulti flaming oneFrom *высший пламенный*, ultimate flaming one
+ |
+| **Spanish (HA)** | Fuego Pantanoso Supremo | From *fuego pantanoso*, swampfire, and *supremo*, supreme
+ |
+| **Spanish (Spain)** | Ultimate Fangoso | From *fangoso*, swampfire
+ |
+| **Swedish** | Ultimata Träskeld | From *ultimata*, ultimate, and *träskeld*, swampfire
+ |
+| **Turkish** | Ultimate Çamur Ateş | From *ultimate*, ultimate, and *Çamur Ateş*, mud fire
+ |
+| **Urdu** | Ultimet Swampfiere | From *ultimet*, ultimate and *swampfiere*, swampfire
+ |
+
+
+Trivia
+------
+
+
+* Ultimate Swampfire is the first Ultimate Form to be used by [Ben](/wiki/Ben_Tennyson_(Classic) "Ben Tennyson (Classic)"), which is a reference to Ben transforming into fire-based aliens first: [Heatblast](/wiki/Heatblast_(Classic) "Heatblast (Classic)"), Swampfire, and now Ultimate Swampfire.
+	+ He is also the only Ultimate Form used by Ben to appear before **Ultimate Alien**.
+* Ultimate Swampfire is the only Ultimate Form to be temporarily destroyed and removed from the Ultimatrix.
+* In a beta cover for an issue of *Cartoon Network Action Pack*, Ultimate Swampfire was colored red with yellow napalm shells, resembling Heatblast.
+* Ultimate Swampfire's fire blasts are similar to the large blasts of flame created by Azula in the *[Avatar: The Last Airbender](http://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender "wikipedia:Avatar: The Last Airbender")* series.
+* Ultimate Swampfire was the [Alien of the Month](/wiki/Alien_of_the_Month "Alien of the Month") in October 2011.
+* Ultimate Swampfire was [Derrick J. Wyatt](/wiki/Derrick_J._Wyatt "Derrick J. Wyatt")'s favorite Ultimate Alien because he liked how he looked the most.[[DJW 1]](#cite_note-8)[[DJW 2]](#cite_note-9)
+* Had Ultimate Swampfire appeared in **Omniverse** as one of Albedo's transformations, Derrick would have probably redesigned him to look a little more creepy, like when Ichabod Crane rides through that haunted forest.[[DJW 3]](#cite_note-10)
+* If [Ben 23](/wiki/Ben_Tennyson_(Dimension_23) "Ben Tennyson (Dimension 23)") were to have an Ultimatrix and use its Evolution Feature on [Mr. Mucky](/wiki/Mr._Mucky "Mr. Mucky"), the resulting transformation would be called "Monsterizered Mr. Mucky".[[DJW 4]](#cite_note-11)
+
+
+Notes
+-----
+
+
+1. [↑](#cite_ref-7) On the contrary, [Matt Wayne](/wiki/Matt_Wayne "Matt Wayne") believes that regeneration is a trait that natural selection would favor.[[MW 1]](#cite_note-6)
+
+References
+----------
+
+
+1. ↑ [1.0](#cite_ref-TFB2_1-0) [1.1](#cite_ref-TFB2_1-1) [1.2](#cite_ref-TFB2_1-2) *[The Final Battle: Part 2](/wiki/The_Final_Battle:_Part_2 "The Final Battle: Part 2")*
+2. ↑ [2.0](#cite_ref-UA_2-0) [2.1](#cite_ref-UA_2-1) *[Ultimate Aggregor](/wiki/Ultimate_Aggregor_(Episode) "Ultimate Aggregor (Episode)")*
+3. [↑](#cite_ref-3) *[The Ultimate Sacrifice](/wiki/The_Ultimate_Sacrifice "The Ultimate Sacrifice")*
+4. ↑ [4.0](#cite_ref-B10KR_4-0) [4.1](#cite_ref-B10KR_4-1) *[Ben 10,000 Returns](/wiki/Ben_10,000_Returns "Ben 10,000 Returns")*
+5. [↑](#cite_ref-5) *[The Forge of Creation](/wiki/The_Forge_of_Creation "The Forge of Creation")*
+
+### [Matt Wayne](/wiki/Matt_Wayne "Matt Wayne")
+
+
+1. [↑](#cite_ref-6) [File:Matt Wayne's Opinion on Ultimate Swampfire's Regeneration.png](/wiki/File:Matt_Wayne%27s_Opinion_on_Ultimate_Swampfire%27s_Regeneration.png "File:Matt Wayne's Opinion on Ultimate Swampfire's Regeneration.png")
+
+### [Derrick J. Wyatt](/wiki/Derrick_J._Wyatt "Derrick J. Wyatt")
+
+
+1. [↑](#cite_ref-8) [File:Derrick Likes Ultimate Swampfire's Design 1.png](/wiki/File:Derrick_Likes_Ultimate_Swampfire%27s_Design_1.png "File:Derrick Likes Ultimate Swampfire's Design 1.png")
+2. [↑](#cite_ref-9) [File:Derrick Likes Ultimate Swampfire's Design 2.png](/wiki/File:Derrick_Likes_Ultimate_Swampfire%27s_Design_2.png "File:Derrick Likes Ultimate Swampfire's Design 2.png")
+3. [↑](#cite_ref-10) [File:OV Ultimate Swampfire Concept.png](/wiki/File:OV_Ultimate_Swampfire_Concept.png "File:OV Ultimate Swampfire Concept.png")
+4. [↑](#cite_ref-11) [File:Monsterizered Mr. Mucky Proof.png](/wiki/File:Monsterizered_Mr._Mucky_Proof.png "File:Monsterizered Mr. Mucky Proof.png")
+
+See Also
+--------
+
+
+* [Sentient Ultimate Swampfire](/wiki/Sentient_Ultimate_Swampfire "Sentient Ultimate Swampfire")
+
+
+
+
+| Transformations |
+| --- |
+| Introduced in [Ben 10](/wiki/Ben_10 "Ben 10") | [Arctiguana](/wiki/Arctiguana "Arctiguana") • [Blitzwolfer](/wiki/Blitzwolfer "Blitzwolfer") • [Buzzshock](/wiki/Buzzshock_(Classic) "Buzzshock (Classic)") • [Cannonbolt](/wiki/Cannonbolt_(Classic) "Cannonbolt (Classic)") • [Diamondhead](/wiki/Diamondhead_(Classic) "Diamondhead (Classic)") • [Ditto](/wiki/Ditto "Ditto") • [Eye Guy](/wiki/Eye_Guy "Eye Guy") • [Four Arms](/wiki/Four_Arms_(Classic) "Four Arms (Classic)") • [Frankenstrike](/wiki/Frankenstrike "Frankenstrike") • [Ghostfreak](/wiki/Ghostfreak "Ghostfreak") • [Grey Matter](/wiki/Grey_Matter_(Classic) "Grey Matter (Classic)") • [Heatblast](/wiki/Heatblast_(Classic) "Heatblast (Classic)") • [Ripjaws](/wiki/Ripjaws_(Classic) "Ripjaws (Classic)") • [Snare-oh](/wiki/Snare-oh "Snare-oh") • [Spitter](/wiki/Spitter "Spitter") • [Stinkfly](/wiki/Stinkfly_(Classic) "Stinkfly (Classic)") • [Upchuck](/wiki/Upchuck "Upchuck") • [Upgrade](/wiki/Upgrade_(Classic) "Upgrade (Classic)") • [Way Big](/wiki/Way_Big_(Classic) "Way Big (Classic)") • [Wildmutt](/wiki/Wildmutt "Wildmutt") • [Wildvine](/wiki/Wildvine_(Classic) "Wildvine (Classic)") • [XLR8](/wiki/XLR8_(Classic) "XLR8 (Classic)") |
+| Introduced in [Alien Force](/wiki/Ben_10:_Alien_Force "Ben 10: Alien Force") | [Alien X](/wiki/Alien_X_(Classic) "Alien X (Classic)") • [Big Chill](/wiki/Big_Chill_(Classic) "Big Chill (Classic)") • [Brainstorm](/wiki/Brainstorm "Brainstorm") • [Chromastone](/wiki/Chromastone_(Classic) "Chromastone (Classic)") • [Echo Echo](/wiki/Echo_Echo "Echo Echo") • [Goop](/wiki/Goop_(Classic) "Goop (Classic)") • [Humungousaur](/wiki/Humungousaur_(Classic) "Humungousaur (Classic)") • [Jetray](/wiki/Jetray_(Classic) "Jetray (Classic)") • [Lodestar](/wiki/Lodestar "Lodestar") • [Nanomech](/wiki/Nanomech "Nanomech") • [Rath](/wiki/Rath_(Classic) "Rath (Classic)") • [Spidermonkey](/wiki/Spidermonkey_(Classic) "Spidermonkey (Classic)") • [Swampfire](/wiki/Swampfire "Swampfire") |
+| Introduced in [Ultimate Alien](/wiki/Ben_10:_Ultimate_Alien "Ben 10: Ultimate Alien") | [Ampfibian](/wiki/Ampfibian_(Classic) "Ampfibian (Classic)") • [Armodrillo](/wiki/Armodrillo "Armodrillo") • [Chamalien](/wiki/Chamalien "Chamalien") • [Clockwork](/wiki/Clockwork "Clockwork") • [Eatle](/wiki/Eatle "Eatle") • [Fasttrack](/wiki/Fasttrack "Fasttrack") • [Juryrigg](/wiki/Juryrigg "Juryrigg") • [NRG](/wiki/NRG "NRG") • [Shocksquatch](/wiki/Shocksquatch "Shocksquatch") • [Terraspin](/wiki/Terraspin "Terraspin") • [Water Hazard](/wiki/Water_Hazard "Water Hazard") |
+| Introduced in [Omniverse](/wiki/Ben_10:_Omniverse "Ben 10: Omniverse") | [Astrodactyl](/wiki/Astrodactyl "Astrodactyl") • [Atomix](/wiki/Atomix "Atomix") • [Ball Weevil](/wiki/Ball_Weevil "Ball Weevil") • [Bloxx](/wiki/Bloxx "Bloxx") • [Bullfrag](/wiki/Bullfrag "Bullfrag") • [Crashhopper](/wiki/Crashhopper "Crashhopper") • [Feedback](/wiki/Feedback "Feedback") • [Gravattack](/wiki/Gravattack "Gravattack") • [Gutrot](/wiki/Gutrot "Gutrot") • [Kickin Hawk](/wiki/Kickin_Hawk "Kickin Hawk") • [Mole-Stache](/wiki/Mole-Stache "Mole-Stache") • [Pesky Dust](/wiki/Pesky_Dust "Pesky Dust") • [The Worst](/wiki/The_Worst "The Worst") • [Toepick](/wiki/Toepick "Toepick") • [Walkatrout](/wiki/Walkatrout "Walkatrout") • [Whampire](/wiki/Whampire "Whampire") |
+| Future Aliens | [Sandbox](/wiki/Sandbox "Sandbox") • [Shellhead](/wiki/Shellhead "Shellhead") • [Snakepit](/wiki/Snakepit "Snakepit") |
+| [Ultimate Aliens](/wiki/Ultimate_Forms "Ultimate Forms") | [Albedo](/wiki/Ultimate_Albedo "Ultimate Albedo") • [Arctiguana](/wiki/Ultimate_Arctiguana "Ultimate Arctiguana") • [Big Chill](/wiki/Ultimate_Big_Chill "Ultimate Big Chill") • [Cannonbolt](/wiki/Ultimate_Cannonbolt "Ultimate Cannonbolt") • [Echo Echo](/wiki/Ultimate_Echo_Echo "Ultimate Echo Echo") • [Gravattack](/wiki/Ultimate_Gravattack "Ultimate Gravattack") • [Humungousaur](/wiki/Ultimate_Humungousaur "Ultimate Humungousaur") • [Rath](/wiki/Ultimate_Rath "Ultimate Rath") • [Spidermonkey](/wiki/Ultimate_Spidermonkey "Ultimate Spidermonkey") • **Swampfire** • [Way Big](/wiki/Ultimate_Way_Big "Ultimate Way Big") • [Wildmutt](/wiki/Ultimate_Wildmutt "Ultimate Wildmutt") |
+| [Fusion Aliens](/wiki/Biomnitrix "Biomnitrix") | [Atomic-X](/wiki/Atomic-X "Atomic-X") • [Big Chuck](/wiki/Big_Chuck "Big Chuck") • [Crashocker](/wiki/Crashocker "Crashocker") • [Diamond Matter](/wiki/Diamond_Matter "Diamond Matter") • [Fourmungousaur](/wiki/Fourmungousaur "Fourmungousaur") • [Heat Jaws](/wiki/Heat_Jaws "Heat Jaws") • [Humungoopsaur](/wiki/Humungoopsaur "Humungoopsaur") • [Stink Arms](/wiki/Stink_Arms "Stink Arms") • [Uprigg](/wiki/Uprigg "Uprigg") |
+| Concept Fusion Aliens | [Gravadactyl](/wiki/Gravadactyl "Gravadactyl") • [XLRG](/wiki/XLRG "XLRG") |
+| Other Aliens in Official Media
+ | [Antigravitesla](/wiki/Antigravitesla "Antigravitesla") • [Bob the Blob](/wiki/Bob_the_Blob "Bob the Blob") • [Cartoon Network Alien](/wiki/Cartoon_Network_Alien "Cartoon Network Alien") • [Eon](/wiki/Eon_(Transformation) "Eon (Transformation)") (Retconned) • [Moyo](/wiki/Moyo "Moyo") • [Invincible](/wiki/Invincible "Invincible") • [Plantapocalypse](/wiki/Plantapocalypse "Plantapocalypse") • [Portaler](/wiki/Portaler "Portaler") • [Rocks](/wiki/Rocks "Rocks") • [Shadowman](/wiki/Shadowman "Shadowman") • [Squidstrictor](/wiki/Squidstrictor "Squidstrictor") • [Stretcheleo](/wiki/Stretcheleo "Stretcheleo") |
+
+
+
+
+

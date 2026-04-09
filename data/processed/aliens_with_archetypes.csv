@@ -1,0 +1,75 @@
+alien_id,alien_name,species,home_planet,strength_level,speed_level,intelligence,cluster,archetype
+1,Alien X,Indeedite,Andromeda Prime,7,8,6,3,Balanced
+2,AmpFibian,Particularite,Zantron,5,8,5,3,Balanced
+3,Armodrillo,Discussionite,Tierra Nova,5,4,10,0,Brute Force
+4,Astrodactyl,Acrossite,Hala,10,7,8,1,Speedster
+5,Atomix,Eastite,Sirius,10,5,10,2,Strategist
+6,Ball Weevil,Darkite,Tierra Nova,10,10,8,1,Speedster
+7,Big Chill,Sourceite,Vortis,9,5,8,2,Strategist
+8,Blitzwolfer,Storeite,Talos IV,9,6,6,2,Strategist
+9,Bloxx,Agentite,Hala,8,10,9,1,Speedster
+10,Brainstorm,Somebodyite,Xenon,7,4,7,2,Strategist
+11,Bullfrag,Politicalite,Ego the Living Planet,5,10,5,3,Balanced
+12,Cannonbolt,Minuteite,Nebulon,10,10,7,1,Speedster
+13,Chamalien,Articleite,Alpha Centauri,5,4,5,3,Balanced
+14,Chromastone,Growthite,Vega,10,5,6,2,Strategist
+15,Clockwork,Individualite,Tierra Nova,9,9,6,1,Speedster
+16,Crashhopper,Colorite,Vega,7,7,9,0,Brute Force
+17,Diamondhead,Evidenceite,Vega,7,7,9,0,Brute Force
+18,Ditto,Workite,Alpha Centauri,8,4,6,2,Strategist
+19,Eatle,Valueite,Orion Nebula,5,7,5,3,Balanced
+20,Echo Echo,Leaderite,Rylos,8,4,8,2,Strategist
+21,Eye Guy,Middleite,Kratos IV,10,4,8,2,Strategist
+22,Fasttrack,Programite,Altair IV,9,10,10,1,Speedster
+23,Feedback,Norite,Beta Hydri,7,4,10,0,Brute Force
+24,Four Arms,Decideite,Epsilon Eridani,8,4,5,2,Strategist
+25,Frankenstrike,Actionite,Rylos,10,7,8,1,Speedster
+26,Gax,Girlite,Altair IV,9,5,6,2,Strategist
+27,Ghostfreak,Maybeite,Solaris,8,8,6,1,Speedster
+28,Glitch Ben,Oilite,Vega,8,4,8,2,Strategist
+29,Goop,Alsoite,Ego the Living Planet,9,8,7,1,Speedster
+30,Gravattack,Greenite,Kratos IV,5,7,6,3,Balanced
+31,Grey Matter,Groundite,Krypton,8,4,6,2,Strategist
+32,Gutrot,Thusite,Krypton,6,10,10,0,Brute Force
+33,Heatblast,Ontoite,Talos IV,9,6,9,2,Strategist
+34,Hot Shot,Personite,Epsilon Eridani,9,9,7,1,Speedster
+35,Humungousaur,Lateite,Rylos,5,8,10,0,Brute Force
+36,Jetpack Alien,Townite,Tau Ceti,8,9,8,1,Speedster
+37,Jetray,Dealite,Tau Ceti,9,8,9,1,Speedster
+38,Jury Rigg,Toughite,Qonos,7,4,8,2,Strategist
+39,Kickin Hawk,Loseite,Tierra Nova,8,5,8,2,Strategist
+40,Lodestar,Cellite,Krypton,6,8,10,0,Brute Force
+41,Mole-Stache,Yardite,Vega,5,4,6,3,Balanced
+42,NRG,Earlyite,Rylos,7,5,10,0,Brute Force
+43,Overflow,Receiveite,Nebulon,6,7,8,0,Brute Force
+44,Pesky Dust,Simpleite,Nexus Prime,6,7,7,3,Balanced
+45,Rath,Bestite,Vega,5,8,8,0,Brute Force
+46,Ripjaws,Addite,Tierra Nova,5,7,10,0,Brute Force
+47,Shock Rock,Littleite,Rylos,7,6,6,3,Balanced
+48,Shocksquatch,Everite,Omega Centauri,9,6,6,2,Strategist
+49,Slapback,Personite,Hala,9,6,5,2,Strategist
+50,Snare-oh,Aite,Vulcan,5,6,7,3,Balanced
+51,Spidermonkey,Faceite,Zygara,7,9,9,0,Brute Force
+52,Stinkfly,Nameite,Alpha Centauri,5,5,10,0,Brute Force
+53,Swampfire,Electionite,Krypton,9,4,10,2,Strategist
+54,Terraspin,Mostite,Orion Nebula,10,6,7,2,Strategist
+55,The Worst,Candidateite,Vortis,6,8,6,3,Balanced
+56,Toepick,Whereite,Xandar,7,6,9,0,Brute Force
+57,Ultimate Big Chill,Herite,Sirius,9,10,9,1,Speedster
+58,Ultimate Cannonbolt,Spaceite,Xandar,8,9,9,1,Speedster
+59,Ultimate Echo Echo,Totalite,Solaris,6,6,9,0,Brute Force
+60,Ultimate Gravattack,Actite,Rylos,10,4,7,2,Strategist
+61,Ultimate Humungousaur,Togetherite,Vega,10,4,6,2,Strategist
+62,Ultimate Spidermonkey,Sendite,Nebulon,10,10,5,1,Speedster
+63,Ultimate Swampfire,Centuryite,Ego the Living Planet,9,10,10,1,Speedster
+64,Ultimate Way Big,Threeite,Hala,7,4,6,2,Strategist
+65,Ultimate Wildmutt,Respondite,Altair IV,10,9,5,1,Speedster
+66,Upchuck,Particularlyite,Altair IV,7,10,5,3,Balanced
+67,Upgrade,Minuteite,Pandora,9,7,10,0,Brute Force
+68,Walkatrout,Taxite,Vulcan,5,9,9,0,Brute Force
+69,Water Hazard,Seaite,Xandar,9,10,8,1,Speedster
+70,Way Big,Formite,Tierra Nova,7,8,10,0,Brute Force
+71,Whampire,Riskite,Zygara,9,10,6,1,Speedster
+72,Wildmutt,Chanceite,Epsilon Eridani,8,6,10,0,Brute Force
+73,Wildvine,Withoutite,Solaris,9,5,8,2,Strategist
+74,XLR8,Withoutite,Beta Hydri,9,5,8,2,Strategist
